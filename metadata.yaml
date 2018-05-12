@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/327
     wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22715#The-Cold-Snap1898
 gutenberg_issued: '2007-09-21'
 gutenberg_type: Text
 identifiers:
